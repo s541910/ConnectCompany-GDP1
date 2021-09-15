@@ -4,13 +4,13 @@
 We are Planning to work on React Js for Front development and Spring Boot for backend development and heroku for server deployment.
 
 Stack:  
-          ## Backend
+        
           1. Java + Spring Boot
-          ## Host
+         
           2. Heroku
-          ## Data Host
+         
           3. Heroku PostgreSQL
-          ## Frontend
+          
           4. React Js
-          ## Front-end responsive design
+         
           5. Bootstrap
