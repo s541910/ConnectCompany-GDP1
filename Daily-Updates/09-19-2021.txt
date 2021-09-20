@@ -2,3 +2,4 @@
 
 Ramu Vallapurapu : Added BackeEnd and Fronend SetUp 
 Anusha Kanagala:  Added Flow Diagram 
+Tejaswi Avula : Updated README.md
