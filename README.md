@@ -13,6 +13,10 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
 **Front-end responsive design**
 
            . Bootstrap
+           
+**Local Deployment**
+ 
+           . MySQL
     
 **Server Deployment**
  
@@ -25,6 +29,8 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
            . Java + Spring Boot
      
   ***Detailed Proposal Link*** : [Click here](https://github.com/s541910/ConnectCompany-GDP1/blob/main/Proposal.md)
+  
+  **Github link to Connect Company UserInterface*** : [Connect Company UserInterface](https://github.com/s541910/GDP-UI.git)
 
 
          

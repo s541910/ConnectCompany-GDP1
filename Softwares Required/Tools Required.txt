@@ -1,0 +1,12 @@
+Frontend -
+Visual Studio Editor
+
+Backend -
+Eclipse
+
+
+DataBase-
+MySql Work Bench
+
+Testing API-
+PostMan
