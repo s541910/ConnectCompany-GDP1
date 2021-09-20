@@ -38,56 +38,19 @@ Create a web app (or native application) with authentication and authorization. 
 
 3.End-User / Client
 
-## Organization Admin User Can do :
-<ol>
-  
-  <li>Create a profile to the organization</li>
- 
-<ol>
-  
-  <li> Adds the committee members and other Admins</li>
-
-  <li>Provide the Organization details like name, type of organization, etc.</li>
-  
-  </ol>
-  
-
-  <li> As an Admin User, One Can manage the Events in a particular organization</li>
-  
-  <ol>
-
-  <li>Create or schedule different events in different locations and times and provides to access organization members to add to it.</li>
-
-   <li>can reschedule any event at any time</li>
-    
-  </ol>
-
-  <li> As an Admin User Can add event users to different events.</li>
-  
-  <ol>
-
-  <li> By providing the user details like Name, email address Admin will add the user into Organization and event.</li>
-
-  <li> Can also delete event User at any time.</li>
-  
-  </ol>
-
-  <li>Can also delete different events of the organization at any time.</li>
-
-  <li>As an Admin User can track the different user activities.</li>
-
-  <ol>
-    
-  <li>Can Access all the User's details and Activities performed by an individual.</li>
-
-  </ol>
-
-<li>As an Admin User can manage any events</li>
-  
-  <ol>
-
-  <li>Admin users can not only manage their own created events but can manage an event in the organization.</li>
-    
-  </ol>
-<li>Admin users can generate the report of all the events in the organization after completion of the event.</li>
-  </ol>
+### Organization Admin User Can do :
+1.	Create a profile to  the organization  
+	1.	Adds the committee members and other Admins
+	2.	Provide the Organization details like name, type of organization, etc.
+2.	As an Admin User, One  Can manage the Events in a particular organization
+	1.	Create or schedule different events in different locations and times and provides to access organization members to add to it.
+	2.	can reschedule any event at any time
+3.	As an Admin User Can add event users to different events.
+	1.	By providing the user details like Name, email address  Admin will add the user into Organization and event.
+	2.	Can also delete event User at any time 
+4.	Can also delete different events of the organization at any time.
+5.	As an Admin User can track the different user activities.
+	1.	Can Access all the User's details and Activities performed by an individual.
+6.	As an Admin User can manage any events
+	1.	Admin users can not only manage their own created events but can manage an event in the organization
+7.	Admin users can generate the report of all the events in the organization after completion of the event.
