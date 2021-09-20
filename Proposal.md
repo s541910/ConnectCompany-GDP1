@@ -54,3 +54,20 @@ Create a web app (or native application) with authentication and authorization. 
 6.	As an Admin User can manage any events
 	1.	Admin users can not only manage their own created events but can manage an event in the organization
 7.	Admin users can generate the report of all the events in the organization after completion of the event.
+
+### Committee User:
+1.	As a Committee User can manage Events in a particular organization
+	1.	Create or Schedule different events in different locations and times and provides to access organization members to add to it.
+	2.	can reschedule any event at any time
+
+2.	As a Committee User Can add event users to different events.
+	1.	By providing the user details like Name, email address  Admin will add the user into Organization and event.
+	2.	Can also delete event User at any time 
+3.	Can also delete different events of the organization at any time.
+4.	As a Committee User can track the different user activities of his own created events.
+	1.	Can Access all the User's details and Activities performed by the individual.
+5.	As a Committee User can manage his events
+	1.	Committee users can only manage their own created events 
+	2.	Can manage user activates of his events 
+6.	Committee User can generate the report of his own created event in the organization after completion of the event.
+    
