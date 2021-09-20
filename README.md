@@ -13,6 +13,10 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
 **Front-end responsive design**
 
            . Bootstrap
+           
+**Local Deployment**
+ 
+           . MySQL
     
 **Server Deployment**
  
