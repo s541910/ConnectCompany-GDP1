@@ -27,3 +27,67 @@ The user should have a valid username and password to enter into the system and 
 After subscribing to the event,
 
 The user should be able to see a list of events happening and subscribed by him to return to the starting location (show on a map?) The website is cooperative, not complex to find the company and subscribe to the events happening.
+
+## Functional Requirements
+
+Create a web app (or native application) with authentication and authorization. The following roles are suggested:
+
+1.Admin User
+
+2.Committee User
+
+3.End-User / Client
+
+## Organization Admin User Can do :
+<ol>
+  
+  <li>Create a profile to the organization</li>
+ 
+<ol>
+  
+  <li> Adds the committee members and other Admins</li>
+
+  <li>Provide the Organization details like name, type of organization, etc.</li>
+  
+  </ol>
+  
+
+  <li> As an Admin User, One Can manage the Events in a particular organization</li>
+  
+  <ol>
+
+  <li>Create or schedule different events in different locations and times and provides to access organization members to add to it.</li>
+
+   <li>can reschedule any event at any time</li>
+    
+  </ol>
+
+  <li> As an Admin User Can add event users to different events.</li>
+  
+  <ol>
+
+  <li> By providing the user details like Name, email address Admin will add the user into Organization and event.</li>
+
+  <li> Can also delete event User at any time.</li>
+  
+  </ol>
+
+  <li>Can also delete different events of the organization at any time.</li>
+
+  <li>As an Admin User can track the different user activities.</li>
+
+  <ol>
+    
+  <li>Can Access all the User's details and Activities performed by an individual.</li>
+
+  </ol>
+
+<li>As an Admin User can manage any events</li>
+  
+  <ol>
+
+  <li>Admin users can not only manage their own created events but can manage an event in the organization.</li>
+    
+  </ol>
+<li>Admin users can generate the report of all the events in the organization after completion of the event.</li>
+  </ol>
