@@ -70,4 +70,50 @@ Create a web app (or native application) with authentication and authorization. 
 	1.	Committee users can only manage their own created events 
 	2.	Can manage user activates of his events 
 6.	Committee User can generate the report of his own created event in the organization after completion of the event.
+
+### End-User/Client:
+1.	As an End User, he/she can need to create his/her profile
+	1.	He will provide his/her details to create the account.
+	2.	He/she can also provide what is/her interests what need he/she what to  do with the account 
+For example, one wants to communicate  with a business organization
+	           
+1.	Aa an End User, he/she can choose the organization
+	1.	As End-user, one can view the different  organizations
+	2.	If one like the particular organization he can add to that organization 
+	3.	He can manage the different organizations that are he/she can be in multiple organizations at a time,
+2.	As an End User,  one and manage the events
+	1.	As an End User, One can add into manage multiple events (At different times)
+	2.	As an End User, one can exits from any event before a specific time.
+
+
+Expected entites may include:
+
+* User
+	*	email
+	*	password
+	*	username
+	*	date created
+	*	date last accessed
+
+* Organization_details
+	*	Org_Id
+	*	Org_name
+	*	Org_description
+	*	createdAt
+	*	updatedAt
+
+* User_organization
+	*	Id
+	*	Org_id
+	*	userID
+
+* Event
+	*	eventId
+	*	eventname
+	*	eventdescrption
+	*	timeofevent
+	*	eventtype
+	*	event_location
+	*	org_id
+
     
