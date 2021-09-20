@@ -4,3 +4,4 @@ Ramu Vallapurapu : Added BackeEnd and Fronend SetUp
 Anusha Kanagala:  Added Flow Diagram 
 Tejaswi Avula : Updated README.md and added tools required
 Akhil Kasuvojula : Updated Proposal.md
+Venkatesh Vemula : Updated in Proposal.md and added files for login template and ERD
