@@ -110,9 +110,11 @@ There are multiple side advantages through this connect company firstly The comp
 
 ## User interface sketches
 
+![](GDP%20Images/ConnectCompany02.jpeg)
+
 ![](GDP%20Images/ConnectComapny-01.jpeg)
 
-![](GDP%20Images/ConnectComapny02.jpeg)
+
 
 
 ## Technology stack descriptions:
