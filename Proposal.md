@@ -35,11 +35,11 @@ There are multiple side advantages through this connect company firstly The comp
 -	Create a Different pages which show all the companies and events in each company.
 
 ## Acceptance criteria checklist:
--	Verifying the User Authentication page
--	Verifying that the user could register for the events successfully
--	After a user searches for an event, the results should include a differnet companies.
--	Confirmation that the user will receive updated notifications for upcoming events and tasks.
--	Verifying that the interface is simple to use.
+- The user interface should be visually appealing as well as functional.
+- Ensuring that the user can continuously receive notifications after subscribing to an event.
+- Confirmation of tasks that could not be completed was required.
+- The interface is simple to use.
+- Displaying error page if service is not responding
 
 ## Contract scope / budget / schedule (2 semesters):
 
@@ -86,26 +86,32 @@ There are multiple side advantages through this connect company firstly The comp
 
 -	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
 -	**Sprint-2** : In the Second Sprint we have built the UI Page using Vue js and build backend using adonis js .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
--	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
+-	**Sprint3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
 
 
  End of semester GDP-1
 
  GDP-2 
 
--	**Sprint-4**: Create Database models and schema
--	**Spring-5** : Developing the relations between different tables ( like one-to-one ,many-to -many)
--	**Sprint-6**: Design web APIs
--	**Sprint-7**: Create APIs to communicated with backend database
--	**Sprint-8”: Design all the User Interface pages based on backend requirements
--	**Sprint-9** Integration with both frontend and backend.
--	**Sprint-10**: Testing and fixing issues, Deployment of the application.
+- **Sprint-4**: Create Database models and schema
+
+- **Spring-5**: Designing the different routes between webpages in frontend .Developing the relations between different tables ( like one-to-one ,many-to -many)
+
+- **Sprint-6** Design web APIs
+
+- **Sprint-7** Create APIs to fetch data from DB
+
+- **Sprint-8**: Design all the frontend UI pages based on feature required
+
+- **Sprint-9**: Integration with both frontend  and backend.
+
+- **Sprint-10**: Testing and fixing issues. Deployment of the application.
 
 
 ## User interface sketches
 
 ![](GDP%20Images/ConnectComapny-01.jpeg)
-![](GDP%20Images/ConnectComapny-02.jpeg)
+![](GDP%20Images/ConnectComapny02.jpeg)
 
 
 ## Technology stack descriptions:
@@ -125,7 +131,7 @@ There are multiple side advantages through this connect company firstly The comp
 
 
 ## E-R diagram displayed:
-
+![](GDP%20Images/LatestErd.png)
 
 ## Consistent set of sample data in Excel, use one sheet for each entity
 ![](GDP%20Images/book1.png)
@@ -137,16 +143,15 @@ There are multiple side advantages through this connect company firstly The comp
 
 ## Risks and assumptions:
 
+- Admin should be able to view, add, edit and delete the organizations and events.
 
--	The user should be able to login into page using email id and password
--	Displaying the different dashboards for each of the accounts Admin, User, and Committe User.
--	Making sure the system is compatible with all web browsers (Firefox, Google Chrome,Internet Explorer, Safari, Edge, etc.)
--	MySQL database that holds all info on organizations, organization's events and user informaqtion.
--	Admin should be able to view a list of all organizations, organization's events and the user who registered for the particular events.
+- Admin should be able to view any event or organization and filter searches based on
+location and type of event.
 
+- The admin would also have the ability to view user registered events.
 
+- Admin should be able to delete the organizations and events.
 
+- User should be notified about the registered event prior to the event date and time.
 
-
-
-    
+- The Organization should be able to view the dashboard with details about the total users registered for the particular event
