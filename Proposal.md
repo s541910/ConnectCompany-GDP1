@@ -9,6 +9,17 @@
 - This application is all about connecting the user to companies. So far there are only a few platforms where a user can connect to companies. So we have developed our idea based on this concept. This Connect company is used to connect the job aspirant to the company events. So in this platform where user login into the connect company website and he/she can view the events organized by the companies.
 There are multiple side advantages through this connect company firstly The companies can minimize advertisement for hiring the people and from the user point of view instead of he/she searching for the job openings on the mega-platforms simply he/she can look in to connect company for the events.
 
+The user should have a valid username and password to enter into the system and also get notifications about the updates on subscribed channels.
+How the application will works
+- Each organization will be registered in the portal and they can post events happening in their company like an interview, Tech talks, or any updates on the company.
+-	Users can open and subscribe to the company events or companies listed in the portal.
+-	User can submit their request to join in the upcoming events.
+-	They can get updates and emails on the subscribed events.
+
+After subscribing to the event,
+-	The user should be able to see a list of events happening and subscribed by him to return to the starting location (show on a map?)
+The website is cooperative, not complex to find the company and subscribe to the events happening.
+
 ## Benefits
 -	This application is a user-friendly application 
 -	By utilizing this application the companies can reduce their money spending on advertising.
