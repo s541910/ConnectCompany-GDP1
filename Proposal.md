@@ -81,14 +81,6 @@ There are multiple side advantages through this connect company firstly The comp
 -	**Sprint-2** : In the Second Sprint we have built the UI Page using Vue js and build backend using adonis js .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
 -	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
 
-
-## Schedule:
-
--	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
--	**Sprint-2** : In the Second Sprint we have built the UI Page using Vue js and build backend using adonis js .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
--	**Sprint3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
-
-
  End of semester GDP-1
 
  GDP-2 
