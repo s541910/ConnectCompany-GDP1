@@ -8,29 +8,29 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
         
 **Frontend Development** 
  
-          . React Js
+* React Js
           
 **Front-end responsive design**
 
-           . Bootstrap
+* Bootstrap
            
 **Local Deployment**
  
-           . MySQL
+* MySQL
     
 **Server Deployment**
  
-           . Heroku
+* Heroku
           
-           . Heroku PostgreSQL
+* Heroku PostgreSQL
           
 **Backend Development**
  
-           . Java + Spring Boot
+* Java + Spring Boot
      
-  ***Detailed Proposal Link*** : [Click here](https://github.com/s541910/ConnectCompany-GDP1/blob/main/Proposal.md)
+  **Detailed Proposal Link** : [Click here](https://github.com/s541910/ConnectCompany-GDP1/blob/main/Proposal.md)
   
-  **Github link to Connect Company UserInterface*** : [Connect Company UserInterface](https://github.com/s541910/GDP-UI.git)
+  **Github link to Connect Company UserInterface** : [Connect Company UserInterface](https://github.com/s541910/GDP-UI.git)
 
 
          
