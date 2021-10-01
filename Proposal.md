@@ -39,7 +39,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 -	Create ListEvents to view all the events/jobs applied
 
 ### Fronend:
--	Create Login page 
+- User/admin/committemember can view	Create Login page 
 -	Create Register page
 -	Create 3 different dashboards for 3 different users
 -	Create Application submission view to submit event or job by a company
