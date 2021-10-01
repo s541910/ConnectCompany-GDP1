@@ -31,13 +31,26 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Epics / User Stories / Tasks:
 ### Backend
-#### A user will be:
-- Able to login into the application.
-- Able to register into the application
-- Able to subcribe the events in the companies.
-- Able to apply for a job.
-- Able to view previous applications or events.
-- Able to logout.
+A **USER** will be:
+- able to login into the application.
+- able to register into the application.
+- able to subcribe the events in the companies.
+- able to apply for a job.
+- able to view previous applications or events.
+- able to logout.
+
+A **ADMIN** will be:
+- able to login into the system.
+- able to view all the applications or job events.
+- able to view all the register.
+- able to remove companies form the system.
+- able to update details about the company in the system.
+
+A **COMMITTEE MEMBER** will be:
+- able to login into the system.
+- able to add an event or job.
+- able to view events or jobs which he/she posted.
+- able to see application request/user request.
 
 
 -	Create login Api
@@ -50,11 +63,11 @@ The website is cooperative, not complex to find the company and subscribe to the
 -	Create ListEvents to view all the events/jobs applied
 
 ### Fronend:
-- User/admin/committemember can view	Create Login page 
--	Create Register page
--	Create 3 different dashboards for 3 different users
--	Create Application submission view to submit event or job by a company
--	Create a Different pages which show all the companies and events in each company.
+- User/admin/committeemember can view	Create Login page 
+-	User/admin/committeemember can create Register page
+-	User/admin/committeemember can create 3 different dashboards for 3 different users
+- User/admin/committeemember can	create Application submission view to submit event or job by a company
+-	User/admin/committeemember can create a Different pages which show all the companies and events in each company.
 
 ## Acceptance criteria checklist:
 - The user interface should be visually appealing as well as functional.
