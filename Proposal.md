@@ -21,11 +21,13 @@ After subscribing to the event,
 The website is cooperative, not complex to find the company and subscribe to the events happening.
 
 ## Benefits
--	This application is a user-friendly application 
+-	User's can easily connect with the company and get their dream job.
+-	This website helps user to know more about the companies that are existing in the market.
+-	Details and events of all the companies are available in single website so there is no need to browse individual websites.
 -	By utilizing this application the companies can reduce their money spending on advertising.
 -	The user will be up to date with the company events.  
 -	This Website acts as a bridge between user and company.
--	There is clear transparency between users and companies
+-	There is clear transparency between users and companies.
 
 ## Epics / User Stories / Tasks:
 ### Backend
