@@ -95,21 +95,21 @@ A **COMMITTEE MEMBER** will be:
 ### Project: Connect Company
 ### Overall Status: On Track
 ### Major Milestones:
-| Stage | Date |
-|------|--------------------------------------------------------------------|
-|Milestone 1 | 30 October 2021 |
-|Milestone 2 | 30 November 2021 |
-|Milestone 3 | 30 January 2022 |
-|Milestone 4 | 30 February 2022 |
-|Milestone 5 | 30 March 2022 |
-|Completion | 30 April 2022 |
+| Stage | Date | Status |
+|------|--------------------------------------------------------------------|-----------|
+|Milestone 1 | 30 October 2021 | Complete static pages |
+|Milestone 2 | 30 November 2021 | Complete Backend API's |
+|Milestone 3 | 30 January 2022 | Integrating Backend with Database |
+|Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
+|Milestone 5 | 30 March 2022 | Testing |
+|Completion | 30 April 2022 | Final product delivery |
 ## ProjectTeam:
 |Project Lead | Ramu Vallapurapu |
 |------|--------------------------------------------------------------------|
-|Team Members | Venkatesh Vemula |
-| | Akhil Kasuvojula|
-| | Tejaswi Avula |
-| | Anusha Kanagala |
+| Team Member | Venkatesh Vemula |
+| Team Member | Akhil Kasuvojula|
+| Team Member | Tejaswi Avula |
+| Team Member | Anusha Kanagala |
 ## Schedule:
 
 -	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
