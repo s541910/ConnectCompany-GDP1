@@ -53,16 +53,8 @@ A **COMMITTEE MEMBER** will be:
 - able to see application request/user request.
 
 
--	Create login Api
--	Create database schema with realtionships
--	Create login and register API.
--	Create Add API to add company person by admin to the system
--	Create Add event API for company person to add/create event/Job
--	Create Subscribe API to subscribe in events or job
--	Create ApplyEvent API to apply for event/job
--	Create ListEvents to view all the events/jobs applied
 
-### Fronend:
+### Frontend:
 - User/admin/committeemember can view	Create Login page 
 -	User/admin/committeemember can create Register page
 -	User/admin/committeemember can create 3 different dashboards for 3 different users
@@ -80,13 +72,13 @@ A **COMMITTEE MEMBER** will be:
 
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
 # Budget
-| S. No. | Name                                                            | Role              | Hourly Pay                | Hours/ Week | Estimated Cost/ Week |
-|------|--------------------------------------------------------------------|--------------------|------------------------| ------------- | ---------- |
-| 1    | [Ramu Vallapurapu](https://github.com/vallapurapuramu)           |  Developer  | $45 |   9 - 12 |  $405 - $540 |
-| 2    | [Venkatesh Vemula](https://github.com/jarugulavenkat7)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 3    | [Akhil kasuvojula](https://github.com/saikiranreddygangidi)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 4    | [Tejaswi Avula](https://github.com/vivekd31)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
-| 5    | [Anusha Kanagala](https://github.com/swetha34)                   |  Developer | $45 | 9 - 12 | $405 - $540 |
+| S. No. | Name                                                            | Role               | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | [Ramu Vallapurapu](https://github.com/vallapurapuramu)           |  Developer  | 9 - 12 |  $405 - $540 |
+| 2    | [Venkatesh Vemula](https://github.com/jarugulavenkat7)                   |  Developer | 9 - 12 | $405 - $540 |
+| 3    | [Akhil kasuvojula](https://github.com/saikiranreddygangidi)                   |  Developer | 9 - 12 | $405 - $540 |
+| 4    | [Tejaswi Avula](https://github.com/vivekd31)                   |  Developer | 9 - 12 | $405 - $540 |
+| 5    | [Anusha Kanagala](https://github.com/swetha34)                   |  Developer | 9 - 12 | $405 - $540 |
 |    |               |   |  | Material Resources  | $1000 |
 |    |               |   |  | Total  | $3025 - $3700 |
 
