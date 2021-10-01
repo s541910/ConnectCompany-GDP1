@@ -125,7 +125,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 ## Technology stack descriptions:
 
 ### Backend framework 
-- The backend Framework we are using is adonisJs which is writtern in JavaSprint
+- The backend Framework we are using is Java with Spring Boot
 - It is a fully optimized frame work which advanced methods and feature for relation struture data operation.
 
 ### Backend free app host 
@@ -133,7 +133,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 ### Data host 
 - The data host we are planning to use is freesqldatabase which provides as three free database
 ### Front-end plan 
-- For the frontend  we planning to use vue js framework which is an component based framework
+- For the frontend  we planning to use React Js framework which is an component based framework
 ### Front-end responsive design 
 - The Front-end responsive design would be *Bootstrap*
 
