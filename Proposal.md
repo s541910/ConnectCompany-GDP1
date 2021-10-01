@@ -31,6 +31,15 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Epics / User Stories / Tasks:
 ### Backend
+#### A user will be:
+- Able to login into the application.
+- Able to register into the application
+- Able to subcribe the events in the companies.
+- Able to apply for a job.
+- Able to view previous applications or events.
+- Able to logout.
+
+
 -	Create login Api
 -	Create database schema with realtionships
 -	Create login and register API.
