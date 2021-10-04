@@ -62,10 +62,16 @@ A **COMMITTEE MEMBER** will be:
 -	User/admin/committeemember can create a Different pages which show all the companies and events in each company.
 
 ## Acceptance criteria checklist:
-- The user should provide UserName and Password so that he could get in to the dashboard.
-- If a new user comes he/she has to provide details of username and password so that with the valid details he could login in to the system.
+- The user should provide his UserName and Password so that he could get in to the dashboard.
+- If a new user comes they have to provide details of username and password so that with the valid details he could login in to the system.
 - After logging in to the system with the valid credentials user should be able to see the list of events happening.
-- After logging in to the system with the valid credentials user should be able to see the previous events that he/she has subscribed for the events.
+- After logging in to the system with the valid credentials user should be able to see the previous events that they have subscribed for the events.
+- Admin should be able to provide his login crediantials to view the dashboard.
+- Admin should be able to view all the events of different companies.
+- Admin should be able to add/remove/update new events of a company.
+- The committee member should be able to login in to dashboard by providing his login credentials.
+- The committee member should be able to view all the events that they had added to the system.
+- The committe member should be able to add/remove/update the events in a company.
 - The user should be able to logout from the system when he/she wants to logout from the dashboard.
 
 ## Contract scope / budget / schedule (2 semesters):
