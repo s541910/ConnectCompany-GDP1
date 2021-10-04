@@ -47,10 +47,10 @@ The website is cooperative, not complex to find the company and subscribe to the
 - As a **ADMIN** I want to be able to update details about the company in the system,So that I can provide a detailed information about the companies.
 
 **COMMITTEE MEMBER**
-- As a **COMMITTEE MEMBER** I want to be able to login into the system.
-- As a **COMMITTEE MEMBER** I want to be able to add an event or job.
-- As a **COMMITTEE MEMBER** I want to be able to view events or jobs which he/she posted.
-- As a **COMMITTEE MEMBER** I want to be able to see application request/user request.
+- As a **COMMITTEE MEMBER** I want to be able to login into the system,So that I can access the applications.
+- As a **COMMITTEE MEMBER** I want to be able to add an event or job,So that I can update the events/job.
+- As a **COMMITTEE MEMBER** I want to be able to view events or jobs which he/she posted,So that I can access al the events/job applications.
+- As a **COMMITTEE MEMBER** I want to be able to see application request/user request,So that I can view all the appliations.
 
 
 
