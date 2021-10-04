@@ -31,20 +31,19 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Epics / User Stories / Tasks:
 ### Backend
-A **USER** will be:
-- able to login into the application.
-- able to register into the application.
-- able to subcribe the events in the companies.
-- able to apply for a job.
-- able to view previous applications or events.
-- able to logout.
+- As a **USER** I want to be able to login into the application,so that I can view main dashboard of the application .
+- As a **USER** I want to be able to register into the application,so that I can login into the system.
+- As a **USER** I want to be able to subcribe the events in the companies,So that I can view my events whenever required.
+- As a **USER** I want to be able to apply for a job.So, that I can able to communicate to the company directly.
+- As a **USER** I want to be able to view previous applications or events.So, that I can get to know the progress of my performance.
+- As a **USER** I want to be able to logout.So, It can assure that my profile is seccured.
 
-A **ADMIN** will be:
-- able to login into the system.
-- able to view all the applications or job events.
-- able to view all the register.
-- able to remove companies form the system.
-- able to update details about the company in the system.
+
+- As a **ADMIN** I want to be able to login into the system,So that I can have access on user applications.
+- As a **ADMIN** I want to be able to view all the applications or job events,So that I can be able to notify to the user's.
+- As a **ADMIN** I want to be able to view all the register.So that I can view the profile of the user.
+- As a **ADMIN** I want to be able to remove companies form the system.So that I can edit the available company list.
+- As a **ADMIN** I want to be able to update details about the company in the system.So that I can provide a detailed information about the companies.
 
 A **COMMITTEE MEMBER** will be:
 - able to login into the system.
@@ -62,17 +61,11 @@ A **COMMITTEE MEMBER** will be:
 -	User/admin/committeemember can create a Different pages which show all the companies and events in each company.
 
 ## Acceptance criteria checklist:
-- The user should provide his UserName and Password so that he could get in to the dashboard.
-- If a new user comes they have to provide details of username and password so that with the valid details he could login in to the system.
-- After logging in to the system with the valid credentials user should be able to see the list of events happening.
-- After logging in to the system with the valid credentials user should be able to see the previous events that they have subscribed for the events.
-- Admin should be able to provide his login crediantials to view the dashboard.
-- Admin should be able to view all the events of different companies.
-- Admin should be able to add/remove/update new events of a company.
-- The committee member should be able to login in to dashboard by providing his login credentials.
-- The committee member should be able to view all the events that they had added to the system.
-- The committe member should be able to add/remove/update the events in a company.
-- The user should be able to logout from the system when he/she wants to logout from the dashboard.
+- The user interface should be visually appealing as well as functional.
+- Ensuring that the user can continuously receive notifications after subscribing to an event.
+- Confirmation of tasks that could not be completed was required.
+- The interface is simple to use.
+- Displaying error page if service is not responding
 
 ## Contract scope / budget / schedule (2 semesters):
 
