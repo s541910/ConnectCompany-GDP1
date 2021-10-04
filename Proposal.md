@@ -31,25 +31,26 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Epics / User Stories / Tasks:
 ### Backend
-- As a **USER** I want to be able to login into the application,so that I can view main dashboard of the application .
-- As a **USER** I want to be able to register into the application,so that I can login into the system.
+**USER**
+- As a **USER** I want to be able to login into the application,So that I can view main dashboard of the application .
+- As a **USER** I want to be able to register into the application,So that I can login into the system.
 - As a **USER** I want to be able to subcribe the events in the companies,So that I can view my events whenever required.
-- As a **USER** I want to be able to apply for a job.So, that I can able to communicate to the company directly.
-- As a **USER** I want to be able to view previous applications or events.So, that I can get to know the progress of my performance.
-- As a **USER** I want to be able to logout.So, It can assure that my profile is seccured.
+- As a **USER** I want to be able to apply for a job,So that I can able to communicate to the company directly.
+- As a **USER** I want to be able to view previous applications or events,So that I can get to know the progress of my performance.
+- As a **USER** I want to be able to logout,So It can assure that my profile is seccured.
 
-
+**ADMIN**
 - As a **ADMIN** I want to be able to login into the system,So that I can have access on user applications.
 - As a **ADMIN** I want to be able to view all the applications or job events,So that I can be able to notify to the user's.
-- As a **ADMIN** I want to be able to view all the register.So that I can view the profile of the user.
-- As a **ADMIN** I want to be able to remove companies form the system.So that I can edit the available company list.
-- As a **ADMIN** I want to be able to update details about the company in the system.So that I can provide a detailed information about the companies.
+- As a **ADMIN** I want to be able to view all the register,So that I can view the profile of the user.
+- As a **ADMIN** I want to be able to remove companies form the system,So that I can edit the available company list.
+- As a **ADMIN** I want to be able to update details about the company in the system,So that I can provide a detailed information about the companies.
 
-A **COMMITTEE MEMBER** will be:
-- able to login into the system.
-- able to add an event or job.
-- able to view events or jobs which he/she posted.
-- able to see application request/user request.
+**COMMITTEE MEMBER**
+- As a **COMMITTEE MEMBER** I want to be able to login into the system.
+- As a **COMMITTEE MEMBER** I want to be able to add an event or job.
+- As a **COMMITTEE MEMBER** I want to be able to view events or jobs which he/she posted.
+- As a **COMMITTEE MEMBER** I want to be able to see application request/user request.
 
 
 
