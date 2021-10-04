@@ -62,11 +62,11 @@ A **COMMITTEE MEMBER** will be:
 -	User/admin/committeemember can create a Different pages which show all the companies and events in each company.
 
 ## Acceptance criteria checklist:
-- The user interface should be visually appealing as well as functional.
-- Ensuring that the user can continuously receive notifications after subscribing to an event.
-- Confirmation of tasks that could not be completed was required.
-- The interface is simple to use.
-- Displaying error page if service is not responding
+- The user should provide UserName and Password so that he could get in to the dashboard.
+- If a new user comes he/she has to provide details of username and password so that with the valid details he could login in to the system.
+- After logging in to the system with the valid credentials user should be able to see the list of events happening.
+- After logging in to the system with the valid credentials user should be able to see the previous events that he/she has subscribed for the events.
+- The user should be able to logout from the system when he/she wants to logout from the dashboard.
 
 ## Contract scope / budget / schedule (2 semesters):
 
