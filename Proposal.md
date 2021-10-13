@@ -126,6 +126,18 @@ The website is cooperative, not complex to find the company and subscribe to the
 - when the multiple conflicts or the confusing scope assessments occur by the stakeholders then we as the team have a clear scope about the project, to underpin those performance requirement.
 - When ever the users , customers and stakeholders fails to communicate with the development team and doesn’t have any idea about the performance issues  involved  in the project. The development team will clarify the goals limitations and essential factors to overcome the issues with them.
 - The performance requirements will occur at any time, the software development team will receive , prioritize and assimilate those requirements without any distruption.
+
+## User interface sketches
+
+![](GDP%20Images/ConnectCompany02.jpeg)
+
+
+
+![](GDP%20Images/ConnectComapny-01.jpeg)
+
+![](GDP%20Images/sc-1.PNG)
+
+![](GDP%20Images/sc-2.PNG)
 ## Contract scope / budget / schedule (2 semesters):
 
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
@@ -174,22 +186,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 - **Sprint-9**: Integration with both frontend  and backend.
 
 - **Sprint-10**: Testing and fixing issues. Deployment of the application.
-
-
-## User interface sketches
-
-![](GDP%20Images/ConnectCompany02.jpeg)
-
-
-
-![](GDP%20Images/ConnectComapny-01.jpeg)
-
-![](GDP%20Images/sc-1.PNG)
-
-![](GDP%20Images/sc-2.PNG)
-
-
-
 
 
 ## Technology stack descriptions:
