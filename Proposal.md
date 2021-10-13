@@ -272,8 +272,8 @@ location and type of event.
 | 3    | [Akhil kasuvojula](https://github.com/akhilkasuvojula)                   |  Developer | 9 - 12 | $405 - $540 |
 | 4    | [Tejaswi Avula](https://github.com/tejaavula)                   |  Developer | 9 - 12 | $405 - $540 |
 | 5    | [Anusha Kanagala](https://github.com/Anushakanagala)                   |  Developer | 9 - 12 | $405 - $540 |
-|    |               |   |  | Material Resources  | $1000 |
-|    |               |   |  | Total  | $3025 - $3700 |
+|      |     |    |  Material Resources |   |
+|      |     |     |     Total           |    |
 
 
 
