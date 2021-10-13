@@ -148,55 +148,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 ![](GDP%20Images/book3.png)
 ![](GDP%20Images/book4.png)
 ![](GDP%20Images/book5.png)
-## Contract scope / budget / schedule (2 semesters):
-
--  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
-# Budget
-| S. No. | Name                                                            | Role               | Hours/ Week | Estimated Cost/ Week |
-|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
-| 1    | [Ramu Vallapurapu](https://github.com/vallapurapuramu)           |  Developer  | 9 - 12 |  $405 - $540 |
-| 2    | [Venkatesh Vemula](https://github.com/jarugulavenkat7)                   |  Developer | 9 - 12 | $405 - $540 |
-| 3    | [Akhil kasuvojula](https://github.com/saikiranreddygangidi)                   |  Developer | 9 - 12 | $405 - $540 |
-| 4    | [Tejaswi Avula](https://github.com/vivekd31)                   |  Developer | 9 - 12 | $405 - $540 |
-| 5    | [Anusha Kanagala](https://github.com/swetha34)                   |  Developer | 9 - 12 | $405 - $540 |
-|    |               |   |  | Material Resources  | $1000 |
-|    |               |   |  | Total  | $3025 - $3700 |
-
-
-
-### Project: Connect Company
-### Overall Status: On Track
-## ProjectTeam:
-|Project Lead | Ramu Vallapurapu |
-|------|--------------------------------------------------------------------|
-| Team Member | Venkatesh Vemula |
-| Team Member | Akhil Kasuvojula|
-| Team Member | Tejaswi Avula |
-| Team Member | Anusha Kanagala |
-## Schedule:
-
--	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
--	**Sprint-2** : In the Second Sprint we have built the UI Page using React js and build backend using Java with spring Boot .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
--	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
-
- End of semester GDP-1
-
- GDP-2 
-
-- **Sprint-4**: Create Database models and schema
-
-- **Spring-5**: Designing the different routes between webpages in frontend .Developing the relations between different tables ( like one-to-one ,many-to -many)
-
-- **Sprint-6** Design web APIs
-
-- **Sprint-7** Create APIs to fetch data from DB
-
-- **Sprint-8**: Design all the frontend UI pages based on feature required
-
-- **Sprint-9**: Integration with both frontend  and backend.
-
-- **Sprint-10**: Testing and fixing issues. Deployment of the application.
-
 
 ## Technology stack descriptions:
 
@@ -212,7 +163,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 - For the frontend  we planning to use React Js framework which is an component based framework
 ### Front-end responsive design 
 - The Front-end responsive design would be *Bootstrap*
-
 
 ## Risks and assumptions:
 
@@ -255,6 +205,57 @@ We are developing an application that the user could register for the events in 
 |Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
 |Milestone 5 | 30 March 2022 | Testing |
 |Completion | 30 April 2022 | Final product delivery |
+
+
+## Schedule:
+### Project: Connect Company
+### Overall Status: On Track
+## ProjectTeam:
+|Project Lead | Ramu Vallapurapu |
+|------|--------------------------------------------------------------------|
+| Team Member | Venkatesh Vemula |
+| Team Member | Akhil Kasuvojula|
+| Team Member | Tejaswi Avula |
+| Team Member | Anusha Kanagala |
+
+
+-	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
+-	**Sprint-2** : In the Second Sprint we have built the UI Page using React js and build backend using Java with spring Boot .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
+-	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
+
+ End of semester GDP-1
+
+ GDP-2 
+
+- **Sprint-4**: Create Database models and schema
+
+- **Spring-5**: Designing the different routes between webpages in frontend .Developing the relations between different tables ( like one-to-one ,many-to -many)
+
+- **Sprint-6** Design web APIs
+
+- **Sprint-7** Create APIs to fetch data from DB
+
+- **Sprint-8**: Design all the frontend UI pages based on feature required
+
+- **Sprint-9**: Integration with both frontend  and backend.
+
+- **Sprint-10**: Testing and fixing issues. Deployment of the application.
+
+## budget (2 semesters):
+
+-  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
+# Budget
+| S. No. | Name                                                            | Role               | Hours/ Week | Estimated Cost/ Week |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | [Ramu Vallapurapu](https://github.com/vallapurapuramu)           |  Developer  | 9 - 12 |  $405 - $540 |
+| 2    | [Venkatesh Vemula](https://github.com/jarugulavenkat7)                   |  Developer | 9 - 12 | $405 - $540 |
+| 3    | [Akhil kasuvojula](https://github.com/saikiranreddygangidi)                   |  Developer | 9 - 12 | $405 - $540 |
+| 4    | [Tejaswi Avula](https://github.com/vivekd31)                   |  Developer | 9 - 12 | $405 - $540 |
+| 5    | [Anusha Kanagala](https://github.com/swetha34)                   |  Developer | 9 - 12 | $405 - $540 |
+|    |               |   |  | Material Resources  | $1000 |
+|    |               |   |  | Total  | $3025 - $3700 |
+
+
 
 # Test plan with requirements
    ## Test Deliverables
