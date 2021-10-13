@@ -86,15 +86,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ### Project: Connect Company
 ### Overall Status: On Track
-### Major Milestones:
-| Stage | Date | Status |
-|------|--------------------------------------------------------------------|-----------|
-|Milestone 1 | 30 October 2021 | Complete static pages |
-|Milestone 2 | 30 November 2021 | Complete Backend API's |
-|Milestone 3 | 30 January 2022 | Integrating Backend with Database |
-|Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
-|Milestone 5 | 30 March 2022 | Testing |
-|Completion | 30 April 2022 | Final product delivery |
 ## ProjectTeam:
 |Project Lead | Ramu Vallapurapu |
 |------|--------------------------------------------------------------------|
@@ -197,3 +188,12 @@ location and type of event.
 # Scope:
 We are developing an application that the user could register for the events in any organization of a company and the user gets notifications related to the events after getting subscribed to a particular event. To make sure that the events get updated every time we give access to admin where the admin can view all the events registered from various companies and can intimate to the committee members so that they could create and add different events. we will make sure that the user interface is interactive and the user could receive notifications after subscribing to an event.
 
+# Major Milestones:
+| Stage | Date | Status |
+|------|--------------------------------------------------------------------|-----------|
+|Milestone 1 | 30 October 2021 | Complete static pages |
+|Milestone 2 | 30 November 2021 | Complete Backend API's |
+|Milestone 3 | 30 January 2022 | Integrating Backend with Database |
+|Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
+|Milestone 5 | 30 March 2022 | Testing |
+|Completion | 30 April 2022 | Final product delivery |
