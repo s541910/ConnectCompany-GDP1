@@ -208,7 +208,7 @@ We are developing an application that the user could register for the events in 
    ## Testing Tool
      - Quality Testing
      - Manula Testing
-   ## Scope
+   #### Scope
    |Module Name | Roles | Description |
    |------|--------------------------------------------------------------------|-----------|
    | Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
