@@ -66,7 +66,61 @@ The website is cooperative, not complex to find the company and subscribe to the
 - Ensuring that the user can continuously receive notifications after subscribing to an event.
 - Confirmation of tasks that could not be completed was required.
 - The interface is simple to use.
-- Displaying error page if service is not responding
+- Displaying error page if service is not responding.
+
+## Functional Requirements:
+- Create a web application with authentication and authorization. The following roles are suggested:
+
+- Admin User 
+- Committee User 
+- End-User / Client
+
+### Organization Admin User Can do :
+
+- Admin user can create a profile  for an organization
+- Can have an access on adding the committee members and other Admin
+- Provide the Organization details like name, type of organization, etc.
+-  As an Admin User, Can manage the Events in a particular organization.
+- Organization member have an access of creating and scheduling an events at different locations and at diffrent time.
+- can have an access of rescheduling any event at any time.
+- As an Admin User Can add event organizer to different events.
+- Admin will add the user into Organization and event when user provides the details like Name ,Email address.
+- Can also delete events and event User at any time.
+- Admin User can have access to track the different user activities.
+- Can Access all the User's details and Activities performed by an individual.
+- As an Admin User can manage and create own events but only manage in the organization.
+-  Generating the report of all the events in the organization after completion of the event is done by admin user.
+
+### Committee User:
+- Committee User can manage the Events in a particular organization.
+
+- Organization member have an access of creating and scheduling an events at different locations and at diffrent time
+- can have an access of rescheduling any event at any time.
+- As a Committee User Can add event organizer to different events.
+
+-  committe user will add the user into Organization and event when user provides the details like Name ,Email address.
+- Can also delete events and event User at any time.
+
+- Committee User can track the different user activities of his own created events 
+
+- Comittee user can have access of all the User's details and Activities performed by the individual.
+- Committee User can only manage his own created events
+- As a committee user can manage user activates of his events
+- After completion of the event Committee User can generate the report of his own created event in the organization .
+
+### End-User/Client:
+- As an End User need to create his/her own profile.
+
+- He will provide his/her details to create an account.
+- He/she can also provide what the client interested in and  what to do with the account For example, one wants to communicate with a business organization.
+- As an End User, he/she can choose the organization.
+
+- As a End-user, one can view the different organizations.
+- If one like the particular organization he can add to that organization.
+- can have a access to add in any organization in which ever they are intrested. 
+- He can manage the different organizations that they  can be in multiple organizations at a time.
+-  End User can manage the events and can can have a access to add into multiple events at defferent times.
+- End user can have access to exit at any time.
 
 ## Contract scope / budget / schedule (2 semesters):
 
@@ -199,23 +253,19 @@ We are developing an application that the user could register for the events in 
 |Completion | 30 April 2022 | Final product delivery |
 
 # Test plan with requirements
-   ### Test Deliverables
+   ## Test Deliverables
    - Test Plan
    - Test Cases
    - Bug Reports
    - Test Strategy
    - Customer Sign Off
-   ### Testing Tool
+   ## Testing Tool
      - Quality Testing
      - Manula Testing
-   ### Testing Scope
+   ## Scope
    |Module Name | Roles | Description |
    |------|--------------------------------------------------------------------|-----------|
-   | Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
+   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
    | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
-   | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
-   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
-   | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
-   | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
    
    
