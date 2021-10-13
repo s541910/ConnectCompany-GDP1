@@ -199,16 +199,16 @@ We are developing an application that the user could register for the events in 
 |Completion | 30 April 2022 | Final product delivery |
 
 # Test plan with requirements
-   ## Test Deliverables
+   ### Test Deliverables
    - Test Plan
    - Test Cases
    - Bug Reports
    - Test Strategy
    - Customer Sign Off
-   ## Testing Tool
+   ### Testing Tool
      - Quality Testing
      - Manula Testing
-   #### Scope
+   ### Testing Scope
    |Module Name | Roles | Description |
    |------|--------------------------------------------------------------------|-----------|
    | Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
