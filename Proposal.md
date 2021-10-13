@@ -199,6 +199,16 @@ location and type of event.
 | 8    | Committed member can add events | Creating a form where a committe member can add events to the system| Teja | Not yet Started|
 |9     | API to add events| Creating an API to add events to the system | Anusha | Not yet started|
 
+ ## Scope
+   |Module Name | Roles | Description |
+   |------|--------------------------------------------------------------------|-----------|
+   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
+   | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
+   | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
+   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
+   | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
+   | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
+
 # Major Milestones:
 | Stage | Date | Status |
 |------|--------------------------------------------------------------------|-----------|
@@ -279,15 +289,7 @@ location and type of event.
    ## Testing Tools
    - Quality Testing
    - Manual Testing
-   ## Scope
-   |Module Name | Roles | Description |
-   |------|--------------------------------------------------------------------|-----------|
-   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
-   | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
-   | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
-   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
-   | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
-   | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
+  
    
    
    
