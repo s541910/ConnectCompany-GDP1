@@ -273,6 +273,7 @@ We are developing an application that the user could register for the events in 
    |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
    | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
    | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
+   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
    
    
    
