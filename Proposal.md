@@ -197,3 +197,21 @@ We are developing an application that the user could register for the events in 
 |Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
 |Milestone 5 | 30 March 2022 | Testing |
 |Completion | 30 April 2022 | Final product delivery |
+
+# Test plan with requirements
+   ## Test Deliverables
+   - Test Plan
+   - Test Cases
+   - Bug Reports
+   - Test Strategy
+   - Customer Sign Off
+   ## Testing Tool
+     - Quality Testing
+     - Manula Testing
+   ## Scope
+   |Module Name | Roles | Description |
+   |------|--------------------------------------------------------------------|-----------|
+   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
+   | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
+   
+   
