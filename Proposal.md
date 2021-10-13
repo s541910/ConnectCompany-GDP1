@@ -178,4 +178,16 @@ location and type of event.
 
 - User should be notified about the registered event prior to the event date and time.
 
-- The Organization should be able to view the dashboard with details about the total users registered for the particular event
+- The Organization should be able to view the dashboard with details about the total users registered for the particular event.
+
+
+# Deliverable artifacts
+| S. No. | Deliverable Name                                                           | Description              | Owner | Status |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | Prepare Project Plan           |  Identify the milestones, Tasks  | Ramu |  Completed |
+| 2    | Design Wireframes                   |  Design the layout of the website | Team | In Progress |
+| 3    | Back-end and Frontend SetUp                  |  Set the code base and Repo | Akhil | Completed |
+| 4    | Login Module UI                  |  Creating Login Page using React | Teja | Completed |
+| 5    | Register Module UI                   |  Creating Register Page  | Vivek | Completed |
+|    |               |   |  | Material Resources  | $1000 |
+|    |               |   |  | Total  | $3025 - $3700 |
