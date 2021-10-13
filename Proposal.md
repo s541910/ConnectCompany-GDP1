@@ -199,16 +199,10 @@ location and type of event.
 | 8    | Committed member can add events | Creating a form where a committe member can add events to the system| Teja | Not yet Started|
 |9     | API to add events| Creating an API to add events to the system | Anusha | Not yet started|
 
-## Scope
-   |Module Name | Roles | Description |
-   |------|--------------------------------------------------------------------|-----------|
-   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
-   | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
-   | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
-   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
-   | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
-   | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
-   
+
+# Scope:
+We are developing an application that the user could register for the events in any organization of a company and the user gets notifications related to the events after getting subscribed to a particular event. To make sure that the events get updated every time we give access to admin where the admin can view all the events registered from various companies and can intimate to the committee members so that they could create and add different events. we will make sure that the user interface is interactive and the user could receive notifications after subscribing to an event.
+
 # Major Milestones:
 | Stage | Date | Status |
 |------|--------------------------------------------------------------------|-----------|
@@ -218,7 +212,8 @@ location and type of event.
 |Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
 |Milestone 5 | 30 March 2022 | Testing |
 |Completion | 30 April 2022 | Final product delivery |
-   
+
+
 ## Schedule and Iteration Plan:
 ### Project: Connect Company
 ### Overall Status: On Track
@@ -231,27 +226,37 @@ location and type of event.
 | Team Member | Anusha Kanagala |
 
 
--	**Sprint-1**: In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
--	**Sprint-2** : In the Second Sprint we have built the UI Page using React js and build backend using Java with spring Boot .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
--	**Sprint-3**: In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
+-	**Sprint-1**: (Start Date: 11th October 2021 - 25th October 2021)
+  -	In the initial sprint we have built the plan and we have sorted the technologies we are dealing with and we gathered the requirements.
+-	**Sprint-2** : (Start Date: 25th October 2021 - 8th November 2021)
+  -	In the Second Sprint we have built the UI Page using React js and build backend using Java with spring Boot .Then we have connected the backend with the frontend using 	 rest API we majorly using Axios for connection.
+-	**Sprint-3**: (Start Date: 8th November 2021 - 22nd November 2021)
+  - In the Third Sprint we have built the database in MYSQL and deployed the application in Heroku and using a remote free SQL database.
 
  End of semester GDP-1
 
  GDP-2 
 
-- **Sprint-4**: Create Database models and schema
+- **Sprint-4**: (Start Date: 12th January 2022 - 26th January 2022)
+  - Create Database models and schema
 
-- **Spring-5**: Designing the different routes between webpages in frontend .Developing the relations between different tables ( like one-to-one ,many-to -many)
+- **Spring-5**: (Start Date: 26th January 2022 - 9th february 2022)
+  - Designing the different routes between webpages in frontend .Developing the relations between different tables ( like one-to-one ,many-to -many)
 
-- **Sprint-6** Design web APIs
+- **Sprint-6**: (Start Date: 9th February 2022 - 23rd February 2022)
+  - Design web APIs
 
-- **Sprint-7** Create APIs to fetch data from DB
+- **Sprint-7**: (Start Date: 23rd February 2022 - 9th March 2022)
+  - Create APIs to fetch data from DB
 
-- **Sprint-8**: Design all the frontend UI pages based on feature required
+- **Sprint-8**: (Start Date: 9th March 2022 - 23rd March 2022)
+  - Design all the frontend UI pages based on feature required
 
-- **Sprint-9**: Integration with both frontend  and backend.
+- **Sprint-9**: (Start Date: 23rd march 2022 - 6th April 2022)
+  - Integration with both frontend  and backend.
 
-- **Sprint-10**: Testing and fixing issues. Deployment of the application.
+- **Sprint-10**: (Start Date: 6th April 2022 - 20th April 2022)
+  - Testing and fixing issues. Deployment of the application.
 
 ## budget (2 semesters):
 
@@ -267,14 +272,27 @@ location and type of event.
 |    |               |   |  | Material Resources  | $1000 |
 |    |               |   |  | Total  | $3025 - $3700 |
 
-   
-# Test plan with requirement
-## Test Deliverables
+
+
+# Test plan with requirements
+   ## Test Deliverables
    - Test Plan
    - Test Cases
    - Bug Reports
    - Test Strategy
    - Customer Sign Off
-## Testing Tools
+   ## Testing Tools
    - Quality Testing
    - Manual Testing
+   ## Scope
+   |Module Name | Roles | Description |
+   |------|--------------------------------------------------------------------|-----------|
+   |Login Module | Admin/User/CommitteMember | Any user with valid Credentails should be able to login and invalid user details should provide error |
+   | Register Module| Admin/User/CommitteMember | Any user wants to register should be able to submit their details and if there is no format for username and password system should throw error|
+   | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
+   | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
+   | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
+   | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
+   
+   
+   
