@@ -271,9 +271,9 @@ We are developing an application that the user could register for the events in 
    - Bug Reports
    - Test Strategy
    - Customer Sign Off
-   ## Testing Tool
-    - Quality Testing
-    - Manual Testing
+   ## Testing Tools
+   - Quality Testing
+   - Manual Testing
    ## Scope
    |Module Name | Roles | Description |
    |------|--------------------------------------------------------------------|-----------|
