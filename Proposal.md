@@ -184,9 +184,9 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ![](GDP%20Images/ConnectComapny-01.jpeg)
 
-![](GDP%20Images/sc-1.png)
+![](GDP%20Images/sc-1.PNG)
 
-![](GDP%20Images/sc-2.png)
+![](GDP%20Images/sc-2.PNG)
 
 
 
