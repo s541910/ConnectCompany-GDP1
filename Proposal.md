@@ -250,7 +250,7 @@ We are developing an application that the user could register for the events in 
 | 1    | [Ramu Vallapurapu](https://github.com/vallapurapuramu)           |  Developer  | 9 - 12 |  $405 - $540 |
 | 2    | [Venkatesh Vemula](https://github.com/Vemula23)                   |  Developer | 9 - 12 | $405 - $540 |
 | 3    | [Akhil kasuvojula](https://github.com/akhilkasuvojula)                   |  Developer | 9 - 12 | $405 - $540 |
-| 4    | [Tejaswi Avula](https://github.com/tejaavula076)                   |  Developer | 9 - 12 | $405 - $540 |
+| 4    | [Tejaswi Avula](https://github.com/tejaavula)                   |  Developer | 9 - 12 | $405 - $540 |
 | 5    | [Anusha Kanagala](https://github.com/Anushakanagala)                   |  Developer | 9 - 12 | $405 - $540 |
 |    |               |   |  | Material Resources  | $1000 |
 |    |               |   |  | Total  | $3025 - $3700 |
