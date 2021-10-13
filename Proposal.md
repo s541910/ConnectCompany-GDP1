@@ -130,9 +130,9 @@ The website is cooperative, not complex to find the company and subscribe to the
 - The performance requirements will occur at any time, the software development team will receive , prioritize and assimilate those requirements without any distruption.
 
 ## Other requirements :
-i)	There should be separate accounts for admin and members such that no member can access the database and only admin has the rights to update the database.
-ii)	User should be able to receive notifications whenever they have registered for an event
-iii)	This application needs to handle different users at a time who are registering for the same event
+- There should be separate accounts for admin and members such that no member can access the database and only admin has the rights to update the database.
+- User should be able to receive notifications whenever they have registered for an event
+- This application needs to handle different users at a time who are registering for the same event
 
 ## User interface sketches
 
