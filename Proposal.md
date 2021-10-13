@@ -199,10 +199,6 @@ location and type of event.
 | 8    | Committed member can add events | Creating a form where a committe member can add events to the system| Teja | Not yet Started|
 |9     | API to add events| Creating an API to add events to the system | Anusha | Not yet started|
 
-
-# Scope:
-We are developing an application that the user could register for the events in any organization of a company and the user gets notifications related to the events after getting subscribed to a particular event. To make sure that the events get updated every time we give access to admin where the admin can view all the events registered from various companies and can intimate to the committee members so that they could create and add different events. we will make sure that the user interface is interactive and the user could receive notifications after subscribing to an event.
-
 # Major Milestones:
 | Stage | Date | Status |
 |------|--------------------------------------------------------------------|-----------|
@@ -212,7 +208,6 @@ We are developing an application that the user could register for the events in 
 |Milestone 4 | 30 February 2022 | Integrating Backed & Frontend |
 |Milestone 5 | 30 March 2022 | Testing |
 |Completion | 30 April 2022 | Final product delivery |
-
 
 ## Schedule and Iteration Plan:
 ### Project: Connect Company
