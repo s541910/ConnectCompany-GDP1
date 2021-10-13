@@ -121,7 +121,7 @@ The website is cooperative, not complex to find the company and subscribe to the
 - He can manage the different organizations that they  can be in multiple organizations at a time.
 -  End User can manage the events and can can have a access to add into multiple events at defferent times.
 - End user can have access to exit at any time.
-- 
+
 ### Expected entites may include:
 
 #### User:
