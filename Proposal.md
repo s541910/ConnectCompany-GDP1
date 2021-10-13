@@ -133,8 +133,8 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## Other requirements :
 - There should be separate accounts for admin and members such that no member can access the database and only admin has the rights to update the database.
-- User should be able to receive notifications whenever they have registered for an event
-- This application needs to handle different users at a time who are registering for the same event
+- User should be able to receive notifications whenever they have registered for an event.
+- This application needs to handle different users at a time who are registering for the same event.
 
 ## User interface sketches
 
@@ -161,13 +161,13 @@ The website is cooperative, not complex to find the company and subscribe to the
 ## Technology stack descriptions:
 
 ### Backend framework 
-- The backend Framework we are using is Java with Spring Boot
+- The backend Framework we are using Java with Spring Boot
 - It is a fully optimized frame work which advanced methods and feature for relation struture data operation.
 
-### Backend free app host 
-- The Backend app host for our project would be *HEROKU*
+### Cloud hosting platform 
+- Both Backend app and Front end app will host on *HEROKU*
 ### Data host 
-- The data host we are planning to use is freesqldatabase which provides as three free database
+- The data host we are planning to use is postgres sql which is provided by heroku
 ### Front-end plan 
 - For the frontend  we planning to use React Js framework which is an component based framework
 ### Front-end responsive design 
@@ -203,6 +203,9 @@ location and type of event.
 
  ## Scope
  - We are developing an application that the user could register for the events in any organization of a company and the user gets notifications related to the events after getting subscribed to a particular event. To make sure that the events get updated every time we give access to admin where the admin can view all the events registered from various companies and can intimate to the committee members so that they could create and add different events. we will make sure that the user interface is interactive and the user could receive notifications after subscribing to an event.
+ - In this project we are using Agile model in order to achive all the tasks and we are using javascript library React Js in the frontend and java with spring boot in the backend.
+ - we are estimating a cost of 4000 dollars to complete this project by the end of April 2022.
+ - We are using Heroku  to deploy this project on cloud platform
 
 # Major Milestones:
 | Stage | Date | Status |
