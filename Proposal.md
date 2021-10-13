@@ -68,94 +68,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 - The interface is simple to use.
 - Displaying error page if service is not responding
 
-## Functional Requirements:
-- Create a web application with authentication and authorization. The following roles are suggested:
-
-- Admin User 
-- Committee User 
-- End-User / Client
-
-### Organization Admin User Can do :
-
-- Admin user can create a profile  for an organization
-- Can have an access on adding the committee members and other Admin
-- Provide the Organization details like name, type of organization, etc.
--  As an Admin User, Can manage the Events in a particular organization.
-- Organization member have an access of creating and scheduling an events at different locations and at diffrent time.
-- can have an access of rescheduling any event at any time.
-- As an Admin User Can add event organizer to different events.
-- Admin will add the user into Organization and event when user provides the details like Name ,Email address.
-- Can also delete events and event User at any time.
-- Admin User can have access to track the different user activities.
-- Can Access all the User's details and Activities performed by an individual.
-- As an Admin User can manage and create own events but only manage in the organization.
--  Generating the report of all the events in the organization after completion of the event is done by admin user.
-
-### Committee User:
-- Committee User can manage the Events in a particular organization.
-
-- Organization member have an access of creating and scheduling an events at different locations and at diffrent time
-- can have an access of rescheduling any event at any time.
-- As a Committee User Can add event organizer to different events.
-
--  committe user will add the user into Organization and event when user provides the details like Name ,Email address.
-- Can also delete events and event User at any time.
-
-- Committee User can track the different user activities of his own created events 
-
-- Comittee user can have access of all the User's details and Activities performed by the individual.
-- Committee User can only manage his own created events
-- As a committee user can manage user activates of his events
-- After completion of the event Committee User can generate the report of his own created event in the organization .
-
-### End-User/Client:
-- As an End User need to create his/her own profile.
-
-- He will provide his/her details to create an account.
-- He/she can also provide what the client interested in and  what to do with the account For example, one wants to communicate with a business organization.
-- As an End User, he/she can choose the organization.
-
-- As a End-user, one can view the different organizations.
-- If one like the particular organization he can add to that organization.
-- can have a access to add in any organization in which ever they are intrested. 
-- He can manage the different organizations that they  can be in multiple organizations at a time.
--  End User can manage the events and can can have a access to add into multiple events at defferent times.
-- End user can have access to exit at any time.
-
-### Expected entites may include:
-
-#### User:
-
-- email
-- password
-- username
-- date created
-- date last accessed
-
-#### Organization_details:
-
-- Org_Id
-- Org_name
-- Org_description
-- createdAt
-- updatedAt
-
-#### User_organization:
-
-- Id
-- Org_id
-- userID
-
-#### Event:
-
-- eventId
-- eventname
-- eventdescrption
-- timeofevent
-- eventtype
-- event_location
-- org_id
-
 ## Contract scope / budget / schedule (2 semesters):
 
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
@@ -266,5 +178,17 @@ location and type of event.
 
 - User should be notified about the registered event prior to the event date and time.
 
-- The Organization should be able to view the dashboard with details about the total users registered for the particular event
+- The Organization should be able to view the dashboard with details about the total users registered for the particular event.
 
+# Deliverable artifacts
+| S. No. | Deliverable Name                                                           | Description              | Owner | Status |
+|------|--------------------------------------------------------------------|--------------------| ------------- | ---------- |
+| 1    | Prepare Project Plan           |  Identify the milestones, Tasks  | Ramu |  Completed |
+| 2    | Design Wireframes                   |  Design the layout of the website | Anusha | In Progress |
+| 3    | Back-end and Frontend SetUp                  |  Set the code base and Repo | Akhil | Completed |
+| 4    | Login Module UI                  |  Creating Login Page using React | Teja | Completed |
+| 5    | Register Module UI                   |  Creating Register Page  | Venkatesh | Completed |
+| 6    | Add "+" Functionality for Admin | Creating an UI functionality for Admin to add companies into system | Ramu | Not yet Started |
+| 7    | API to post comapny data to system | Creating an API to add data to databse | Akhil | Not yet Started|
+| 8    | Committed member can add events | Creating a form where a committe member can add events to the system| Teja | Not yet Started|
+|9     | API to add events| Creating an API to add events to the system | Anusha | Not yet started|
