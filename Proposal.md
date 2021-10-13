@@ -141,6 +141,13 @@ The website is cooperative, not complex to find the company and subscribe to the
 
 ## E-R diagram displayed:
 ![](GDP%20Images/LatestErd.png)
+
+## Consistent set of sample data in Excel, use one sheet for each entity
+![](GDP%20Images/book1.png)
+![](GDP%20Images/book2.png)
+![](GDP%20Images/book3.png)
+![](GDP%20Images/book4.png)
+![](GDP%20Images/book5.png)
 ## Contract scope / budget / schedule (2 semesters):
 
 -  We students from Northwest Missouri State University as a team doing this project under the guidance of Dr. Badami Charles for two semesters using various technologies. 
@@ -205,13 +212,6 @@ The website is cooperative, not complex to find the company and subscribe to the
 - For the frontend  we planning to use React Js framework which is an component based framework
 ### Front-end responsive design 
 - The Front-end responsive design would be *Bootstrap*
-
-## Consistent set of sample data in Excel, use one sheet for each entity
-![](GDP%20Images/book1.png)
-![](GDP%20Images/book2.png)
-![](GDP%20Images/book3.png)
-![](GDP%20Images/book4.png)
-![](GDP%20Images/book5.png)
 
 
 ## Risks and assumptions:
