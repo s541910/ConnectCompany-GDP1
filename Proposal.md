@@ -291,7 +291,11 @@ location and type of event.
    ## Testing Tools
    - Quality Testing
    - Manual Testing
-  
+  | New Events Module | Committe member  |Committed member should be able to create new events and  Events once created can be able to edit and can delete |
+  | User Dashboard | User | User can able to view all the events happening and able to register without any issues|
+  | New Committe Member | Admin | Admin can able to add new committe member to the system and he/she should recieve email as notification|
+  | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
+  | Subscribe Module | User | User can able to subscribe to the events happening and able to get updates on time|
    
    
    
