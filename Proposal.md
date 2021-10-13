@@ -123,8 +123,10 @@ The website is cooperative, not complex to find the company and subscribe to the
 - End user can have access to exit at any time.
 
 ## Performance requirements :  
-- when the multiple conflicts or the confusing scope assessments occur by the stakeholders then we as the team have a clear scope about the project, to underpin those performance requirement.
-- When ever the users , customers and stakeholders fails to communicate with the development team and doesn’t have any idea about the performance issues  involved  in the project. The development team will clarify the goals limitations and essential factors to overcome the issues with them.
+- when the multiple conflicts or the confusing scope assessments occur by the organizations then we as the team have a clear scope about the project, to underpin those performance requirement.
+- The database will be checked for each time when the user logins by using his database (username, password).
+- The connection among the data in the table and database should be efficient to access the data and display it.
+- When ever the users, customers and organizations fails to communicate with the development team. The development team will clarify the goals limitations and essential factors to overcome the issues with them.
 - The performance requirements will occur at any time, the software development team will receive , prioritize and assimilate those requirements without any distruption.
 
 ## User interface sketches
