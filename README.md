@@ -1,6 +1,6 @@
 ## ConnectCompany-GDP1
 
-**Github link to Connect Company Frontend** : [https://github.com/vallapurapuramu/GDP](https://github.com/vallapurapuramu/GDP)
+**Github link to Connect Company Frontend** : [ https://github.com/vallapurapuramu/GDP-UI]( https://github.com/vallapurapuramu/GDP-UI)
 
 We are Planning to work on React Js for Front development and Spring Boot for backend development and heroku for server deployment.
 
