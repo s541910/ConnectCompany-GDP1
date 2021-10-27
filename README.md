@@ -9,8 +9,8 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
 
   **Detailed Proposal Link** : [Click here](https://github.com/s541910/ConnectCompany-GDP1/blob/main/Proposal.md)
   
-  **Heroku Link** : [](https://connectcompanysserinterface.herokuapp.com/)
-  **Heroku Backend Link** :[](https://connectcomapnybackend.herokuapp.com/)
+  **Heroku Link** : [https://connectcompanysserinterface.herokuapp.com/](https://connectcompanysserinterface.herokuapp.com/)
+  **Heroku Backend Link** :[https://connectcomapnybackend.herokuapp.com/](https://connectcomapnybackend.herokuapp.com/)
   
   
 
