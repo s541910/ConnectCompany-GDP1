@@ -16,9 +16,9 @@ We are Planning to work on React Js for Front development and Spring Boot for ba
   
   **Locally Working Changes**
   
-  # Image01 : ![](https://github.com/vallapurapuramu/ConnectCompany-GDP1/blob/main/GDP%20Images/Screenshot%20(72).png)
-  # Image02 :
-  # Image03 :
+  ### Image01 : ![](https://github.com/vallapurapuramu/ConnectCompany-GDP1/blob/main/GDP%20Images/Screenshot%20(72).png)
+  ### Image02 : ![](https://github.com/vallapurapuramu/ConnectCompany-GDP1/blob/main/GDP%20Images/Screenshot%20(73).png)
+  ### Image03 : ![](https://github.com/vallapurapuramu/ConnectCompany-GDP1/blob/main/GDP%20Images/Screenshot%20(74).png)
   
   
 
